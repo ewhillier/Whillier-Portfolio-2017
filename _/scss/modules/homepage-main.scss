@@ -2,14 +2,36 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 main {
+	padding: 30px;
 	width: 100vw;
 	height: 100vh;
 	background-image: url(../assets/projects/parkers/parkers-homepage-hero.jpg);
 	background-size: cover;
-	background-position: center bottom;
+	background-position: bottom center;
+	
+	@media (min-width: 600px){
+		padding: 0;
+	}
 }
 
 .homepage-main {
 	margin-top: -90px;
 	padding-top: 120px;
+}
+
+.project-description {
+	@media (min-width: 600px) {
+		width: 80%;
+		margin: 0 auto;
+		margin-top: 10vh;
+	}
+	
+	@media (min-width: 900px) {
+		margin-top: 14vh;
+	}
+	
+	@media (min-width: 1300px) {
+		max-width: 1100px;
+		margin-top: 65vh;
+	}
 }
