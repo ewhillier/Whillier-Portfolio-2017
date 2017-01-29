@@ -32,8 +32,16 @@ button {
 	letter-spacing: .3em;
 	text-transform: uppercase;
 	background-color: rgba(225, 225, 225, .2);
+	
+	@media (min-width: 600px) {
+		font-weight: 300;
+	}
 }
 
 .hero-button {
 	margin-top: 8px;
+}
+
+.work-menu-button {
+	background-color: rgba(225, 225, 225, .4);
 }
