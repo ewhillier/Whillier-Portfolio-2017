@@ -2,13 +2,354 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "19137",
 "files": {
-	"\/_\/assets\/projects\/currency\/currency-thumbnail.jpg": {
+	"\/_\/assets\/projects\/asu_now\/asu_now-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6518,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/asu_now\/asu_now-thumbnail.png",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/asu_now\/asu_now-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/asu_now\/asu_now-website-01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2881,
-		"inputAbbreviatedPath": "\/_\/assets\/projects\/currency\/currency-thumbnail.jpg",
-		"outputAbbreviatedPath": "\/_\/assets\/projects\/currency\/currency-thumbnail.jpg",
+		"initialSize": 299286,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/asu_now\/asu_now-website-01.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/asu_now\/asu_now-website-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/asu_now\/asu_now-website-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 271069,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/asu_now\/asu_now-website-02.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/asu_now\/asu_now-website-02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/asu_now\/asu_now-website-03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 158130,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/asu_now\/asu_now-website-03.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/asu_now\/asu_now-website-03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/asu_now\/asu_now-website-04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 251341,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/asu_now\/asu_now-website-04.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/asu_now\/asu_now-website-04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/asu_now\/asu_now-website-05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 233644,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/asu_now\/asu_now-website-05.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/asu_now\/asu_now-website-05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/asu_now\/asu_now-website-06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 233644,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/asu_now\/asu_now-website-06.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/asu_now\/asu_now-website-06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/biomimicry\/biomimicry-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 350348,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/biomimicry\/biomimicry-01.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/biomimicry\/biomimicry-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/biomimicry\/biomimicry-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 71288,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/biomimicry\/biomimicry-02.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/biomimicry\/biomimicry-02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/biomimicry\/biomimicry-03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 778221,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/biomimicry\/biomimicry-03.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/biomimicry\/biomimicry-03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/biomimicry\/biomimicry-04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91692,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/biomimicry\/biomimicry-04.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/biomimicry\/biomimicry-04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/biomimicry\/biomimicry-05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 187873,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/biomimicry\/biomimicry-05.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/biomimicry\/biomimicry-05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/biomimicry\/biomimicry-06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 164143,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/biomimicry\/biomimicry-06.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/biomimicry\/biomimicry-06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/biomimicry\/biomimicry-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8752,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/biomimicry\/biomimicry-thumbnail.png",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/biomimicry\/biomimicry-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/bookbinding\/bookbinding-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6448,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/bookbinding\/bookbinding-thumbnail.png",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/bookbinding\/bookbinding-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/canadian_molson\/canadian_molson-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7633,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/canadian_molson\/canadian_molson-thumbnail.png",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/canadian_molson\/canadian_molson-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/catapult\/catapult-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 341445,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/catapult\/catapult-hero.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/catapult\/catapult-hero.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/catapult\/catapult-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6332,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/catapult\/catapult-thumbnail.png",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/catapult\/catapult-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/catapult\/catapult-website-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90109,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/catapult\/catapult-website-01.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/catapult\/catapult-website-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/catapult\/catapult-website-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66760,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/catapult\/catapult-website-02.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/catapult\/catapult-website-02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/catapult\/catapult-website-03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65834,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/catapult\/catapult-website-03.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/catapult\/catapult-website-03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/catapult\/catapult-website-04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89005,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/catapult\/catapult-website-04.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/catapult\/catapult-website-04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/catapult\/catapult-website-05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52294,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/catapult\/catapult-website-05.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/catapult\/catapult-website-05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/catapult\/catapult-website-06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 168458,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/catapult\/catapult-website-06.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/catapult\/catapult-website-06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/catapult\/catapult-website-07.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 168458,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/catapult\/catapult-website-07.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/catapult\/catapult-website-07.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/catapult\/catapult-website-08.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 141312,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/catapult\/catapult-website-08.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/catapult\/catapult-website-08.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/catapult\/catapult-website-09.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 150236,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/catapult\/catapult-website-09.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/catapult\/catapult-website-09.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/cluster\/cluster-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6305,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/cluster\/cluster-thumbnail.png",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/cluster\/cluster-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/complex_object\/complex_object-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3365,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex_object-thumbnail.png",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex_object-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/currency\/currency-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 719076,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/currency\/currency-01.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/currency\/currency-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/currency\/currency-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 331531,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/currency\/currency-02.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/currency\/currency-02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/currency\/currency-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 629506,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/currency\/currency-hero.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/currency\/currency-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -24,6 +365,116 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_\/assets\/projects\/duo_records\/duo_records-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6899,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/duo_records\/duo_records-thumbnail.png",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/duo_records\/duo_records-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/frm\/frm-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1265,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/frm\/frm-thumbnail.png",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/frm\/frm-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/giving_tuesday\/giving_tuesday-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2313,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/giving_tuesday\/giving_tuesday-thumbnail.png",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/giving_tuesday\/giving_tuesday-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/gnat_warfare\/gnat_warfare-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2310,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/gnat_warfare\/gnat_warfare-thumbnail.png",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/gnat_warfare\/gnat_warfare-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/innovation_space\/innovation_space-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2134,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_space-thumbnail.png",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_space-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/landmark\/landmark-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4560,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/landmark\/landmark-thumbnail.png",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/landmark\/landmark-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/mars_series\/mars_series-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7676,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/mars_series\/mars_series-thumbnail.png",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/mars_series\/mars_series-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/mlk_campaign\/mlk_campaign-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5955,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/mlk_campaign\/mlk_campaign-thumbnail.png",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/mlk_campaign\/mlk_campaign-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/parkers\/parkers-gallery-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 141026,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/parkers\/parkers-gallery-01.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/parkers\/parkers-gallery-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/parkers\/parkers-gallery-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 375578,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/parkers\/parkers-gallery-02.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/parkers\/parkers-gallery-02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_\/assets\/projects\/parkers\/parkers-homepage-hero.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -31,6 +482,61 @@
 		"initialSize": 908148,
 		"inputAbbreviatedPath": "\/_\/assets\/projects\/parkers\/parkers-homepage-hero.jpg",
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/parkers\/parkers-homepage-hero.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/parkers\/parkers-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6211,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/parkers\/parkers-thumbnail.png",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/parkers\/parkers-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/pvhs\/pvhs-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8134,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/pvhs\/pvhs-thumbnail.png",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/pvhs\/pvhs-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/self_promo\/self_promo-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7371,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/self_promo\/self_promo-thumbnail.png",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/self_promo\/self_promo-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/top_knotch\/top_knotch-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8095,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/top_knotch\/top_knotch-thumbnail.png",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/top_knotch\/top_knotch-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/utopian\/utopian-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1419,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-thumbnail.png",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-thumbnail.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -138,6 +644,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_\/scss\/css\/project-main.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/scss\/css\/project-main.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_\/scss\/css\/states.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -227,6 +742,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/_\/scss\/modules\/project-main.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/scss\/modules\/project-main.scss",
+		"outputAbbreviatedPath": "\/_\/scss\/css\/project-main.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/_\/scss\/modules\/states.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -275,11 +806,74 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/index.html": {
+	"\/asu_now.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/index.html",
+		"inputAbbreviatedPath": "\/asu_now.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/biomimicry.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/biomimicry.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/catapult.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/catapult.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/currency.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/currency.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/parkers_maple.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/parkers_maple.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/php-modules\/header.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/php-modules\/header.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/php-modules\/work-menu.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/php-modules\/work-menu.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

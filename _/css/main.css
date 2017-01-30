@@ -31,8 +31,7 @@ h1 {
   font-size: 3.0rem;
   font-weight: 400;
   line-height: 1.2;
-  letter-spacing: .07em;
-  color: #fff; }
+  letter-spacing: .07em; }
   @media (min-width: 600px) {
     h1 {
       font-weight: 100; } }
@@ -40,18 +39,22 @@ h1 {
 h2 {
   font-size: 1rem;
   font-weight: 500;
-  line-height: 1;
+  line-height: 2em;
   letter-spacing: .3em;
-  text-transform: uppercase;
-  color: #fff; }
+  text-transform: uppercase; }
   @media (min-width: 600px) {
     h2 {
       font-weight: 300; } }
 
 h3 {
-  font-size: 1.7rem;
-  line-height: 1.3;
-  letter-spacing: 0; }
+  font-size: 1.6rem;
+  line-height: 1.7em;
+  letter-spacing: .05em;
+  font-weight: 400;
+  margin-bottom: 50px; }
+  @media (min-width: 600px) {
+    h3 {
+      font-weight: 400; } }
 
 h4 {
   font-size: 1.3rem;
@@ -70,12 +73,12 @@ h6 {
 
 p {
   margin-top: 10px;
-  color: rgba(255, 255, 255, 0.9);
   letter-spacing: .05em;
+  line-height: 1.9;
   font-weight: 400; }
   @media (min-width: 600px) {
     p {
-      font-weight: 100;
+      font-weight: 300;
       letter-spacing: .08em; } }
 
  /* Links
@@ -101,15 +104,25 @@ a {
     .inner-wrapper {
       max-width: 1100px; } }
 
+@media (min-width: 1100px) {
+  .project-inner-wrapper {
+    max-width: 400px; } }
+
+@media (min-width: 1100px) {
+  .work-inner-wrapper {
+    max-width: 450px; } }
+
 /* Header Styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 header {
+  position: fixed;
+  top: 0;
+  left: 0;
   z-index: 1;
   padding: 25px 0;
   width: 100%;
   height: 90px;
-  background-color: rgba(35, 31, 32, 0.7);
-  position: relative; }
+  background-color: rgba(35, 31, 32, 0.7); }
   header h1 {
     float: left; }
 
@@ -118,7 +131,7 @@ header {
   @media (min-width: 750px) {
     .tagline {
       display: inline-block;
-      margin: 16px 0 0 50px; } }
+      margin: 10px 0 0 50px; } }
   @media (min-width: 1200px) {
     .tagline {
       margin-left: 200px; } }
@@ -134,22 +147,20 @@ nav {
 
 /* Main
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-main {
-  z-index: -1;
-  position: relative;
+@media (min-width: 600px) {
+  main {
+    padding: 0; } }
+
+.homepage-main {
   padding: 30px;
+  position: relative;
+  padding-top: 120px;
   width: 100vw;
   height: 100vh;
+  color: #fff;
   background-image: url(../assets/projects/parkers/parkers-homepage-hero.jpg);
   background-size: cover;
   background-position: bottom center; }
-  @media (min-width: 600px) {
-    main {
-      padding: 0; } }
-
-.homepage-main {
-  margin-top: -90px;
-  padding-top: 120px; }
 
 @media (min-width: 600px) {
   .project-description {
@@ -196,7 +207,7 @@ button::-moz-focus-inner {
   border: 0;
   padding: 0; }
 
-button {
+.button {
   padding: 10px 15px;
   font-size: .8em;
   font-weight: 500;
@@ -204,7 +215,7 @@ button {
   text-transform: uppercase;
   background-color: rgba(225, 225, 225, 0.2); }
   @media (min-width: 600px) {
-    button {
+    .button {
       font-weight: 300; } }
 
 .hero-button {
@@ -222,24 +233,24 @@ button {
   width: 100%;
   height: 100%;
   overflow: scroll;
-  background-color: rgba(0, 0, 0, 0.9); }
+  background-color: #231f20; }
   @media (min-width: 600px) {
     .work-menu {
       right: 0;
       padding: 90px 20px 0 20px;
-      width: 60%;
-      max-width: 430px;
-      background-color: rgba(0, 0, 0, 0.8); } }
-  @media (min-width: 1200px) {
+      width: 50%; } }
+  @media (min-width: 1100px) {
     .work-menu {
-      width: 530px;
-      padding-bottom: 30px;
-      background-color: rgba(0, 0, 0, 0.5); } }
+      width: 40%; } }
+  @media (min-width: 1400px) {
+    .work-menu {
+      width: 35%;
+      padding: 140px 80px 30px 80px; } }
 
 .project-item {
   width: 90%;
   margin: 0 auto;
-  margin-top: 30px;
+  margin-top: 40px;
   overflow: auto; }
 
 .project-thumbnail {
@@ -250,15 +261,101 @@ button {
   float: right; }
   @media (min-width: 600px) {
     .project-thumbnail {
-      margin-top: 5px;
+      margin-top: 0px;
       float: left; } }
 
 .work-project-description {
   width: 75%;
-  max-width: 300px;
   float: right; }
+  .work-project-description h1 {
+    font-size: 1.8em; }
   @media (min-width: 600px) {
     .work-project-description {
       float: right; } }
+
+.project-main h1 {
+  letter-spacing: .02em; }
+.project-main h3 {
+  color: #800122; }
+  @media (min-width: 1100px) {
+    .project-main h3 {
+      color: #fff; } }
+
+.project-hero {
+  width: 100%;
+  height: 40vh;
+  background-size: cover;
+  background-position: center bottom; }
+  @media (min-width: 1100px) {
+    .project-hero {
+      width: 60%;
+      height: 100vh;
+      float: left; } }
+  @media (min-width: 1400px) {
+    .project-hero {
+      width: 70%; } }
+
+.project-meta {
+  padding: 20px;
+  color: #58595b; }
+  @media (min-width: 600px) {
+    .project-meta {
+      width: 85%;
+      margin: 0 auto; } }
+  @media (min-width: 1100px) {
+    .project-meta {
+      top: 90px;
+      position: fixed;
+      right: 0;
+      bottom: 0;
+      padding: 140px 50px 50px 50px;
+      margin-top: -90px;
+      width: 40%;
+      height: 100vh;
+      overflow: scroll;
+      color: rgba(255, 255, 255, 0.8);
+      background-color: #231f20; } }
+  @media (min-width: 1400px) {
+    .project-meta {
+      padding: 140px 80px 80px 80px;
+      width: 35%; } }
+
+.project-details {
+  margin: 0px; }
+
+.category {
+  color: #800122;
+  font-weight: 500; }
+  @media (min-width: 1100px) {
+    .category {
+      color: #fff;
+      font-weight: 400; } }
+
+.gallery-image {
+  width: 100%; }
+  @media (min-width: 1100px) {
+    .gallery-image {
+      float: left;
+      width: 60%; } }
+  @media (min-width: 1400px) {
+    .gallery-image {
+      width: 65%; } }
+
+.parkers-project-hero {
+  background-image: url(../assets/projects/parkers/parkers-homepage-hero.jpg); }
+
+.asu_now-project-hero {
+  background-image: url(../assets/projects/asu_now/asu_now-website-01.jpg); }
+
+.currency-project-hero {
+  background-image: url(../assets/projects/currency/currency-hero.jpg);
+  background-position: left bottom; }
+
+.biomimicry-project-hero {
+  background-image: url(../assets/projects/biomimicry/biomimicry-01.jpg);
+  background-position: left bottom; }
+
+.catapult-project-hero {
+  background-image: url(../assets/projects/catapult/catapult-hero.jpg); }
 
 /*# sourceMappingURL=main.css.map */

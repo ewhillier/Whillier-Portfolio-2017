@@ -15,3 +15,15 @@
 	
 	
 }
+
+.project-inner-wrapper {
+	@media (min-width: 1100px) {
+		max-width: 400px;
+	}
+}
+
+.work-inner-wrapper {
+	@media (min-width: 1100px) {
+		max-width: 450px;
+	}
+}
