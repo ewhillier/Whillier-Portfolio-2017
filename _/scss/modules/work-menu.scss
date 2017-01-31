@@ -32,7 +32,6 @@
 	width: 90%;
 	margin: 0 auto;
 	margin-top: 40px;
-	overflow: auto;
 }
 
 .project-thumbnail {
@@ -51,6 +50,7 @@
 .work-project-description {
 	width: 75%;
 	float: right;
+	padding-bottom: 10px;
 	
 	h1{
 		font-size: 1.8em;
@@ -59,4 +59,9 @@
 	@media (min-width: 600px) {
 		float: right;
 	}
+}
+
+.tags {
+	
+	color: rgba(255,255,255,.5);
 }

@@ -250,8 +250,7 @@ button::-moz-focus-inner {
 .project-item {
   width: 90%;
   margin: 0 auto;
-  margin-top: 40px;
-  overflow: auto; }
+  margin-top: 40px; }
 
 .project-thumbnail {
   margin-top: 10px;
@@ -266,12 +265,16 @@ button::-moz-focus-inner {
 
 .work-project-description {
   width: 75%;
-  float: right; }
+  float: right;
+  padding-bottom: 10px; }
   .work-project-description h1 {
     font-size: 1.8em; }
   @media (min-width: 600px) {
     .work-project-description {
       float: right; } }
+
+.tags {
+  color: rgba(255, 255, 255, 0.5); }
 
 .project-main h1 {
   letter-spacing: .02em; }
