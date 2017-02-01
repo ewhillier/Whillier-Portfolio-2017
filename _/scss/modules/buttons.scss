@@ -32,6 +32,9 @@ button::-moz-focus-inner {
 	letter-spacing: .3em;
 	text-transform: uppercase;
 	background-color: rgba(225, 225, 225, .2);
+	height: 40px;
+	margin-bottom: 5px;
+	line-height: 1.8em;
 	
 	@media (min-width: 600px) {
 		font-weight: 300;
@@ -43,5 +46,10 @@ button::-moz-focus-inner {
 }
 
 .work-menu-button {
-	background-color: rgba(225, 225, 225, .4);
+	display: block;
+}
+
+.project-button {
+	margin-top: -15px;
+	display: block;
 }
