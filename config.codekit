@@ -167,6 +167,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_\/assets\/projects\/canadian_molson\/canadian_molson-book-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 262039,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/canadian_molson\/canadian_molson-book-01.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/canadian_molson\/canadian_molson-book-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/canadian_molson\/canadian_molson-book-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 153186,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/canadian_molson\/canadian_molson-book-02.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/canadian_molson\/canadian_molson-book-02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/canadian_molson\/canadian_molson-book-03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 259222,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/canadian_molson\/canadian_molson-book-03.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/canadian_molson\/canadian_molson-book-03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/canadian_molson\/canadian_molson-book-04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 70665,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/canadian_molson\/canadian_molson-book-04.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/canadian_molson\/canadian_molson-book-04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_\/assets\/projects\/canadian_molson\/canadian_molson-gallery-01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -900,6 +944,28 @@
 		"initialSize": 2313,
 		"inputAbbreviatedPath": "\/_\/assets\/projects\/giving_tuesday\/giving_tuesday-thumbnail.png",
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/giving_tuesday\/giving_tuesday-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/gnat_warfare\/gnat_warfare-gallery-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 611964,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/gnat_warfare\/gnat_warfare-gallery-01.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/gnat_warfare\/gnat_warfare-gallery-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/gnat_warfare\/gnat_warfare-logo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56778,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/gnat_warfare\/gnat_warfare-logo.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/gnat_warfare\/gnat_warfare-logo.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1705,6 +1771,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/gnat_warfare.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/gnat_warfare.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1746,6 +1821,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/innovation_space.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/molson_canadian.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/molson_canadian.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

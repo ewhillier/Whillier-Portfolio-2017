@@ -396,4 +396,12 @@ button::-moz-focus-inner {
   background-image: url(../assets/projects/frm/frm-logo.jpg);
   background-position: center center; }
 
+.canadian_molson-project-hero {
+  background-image: url(../assets/projects/canadian_molson/canadian_molson-hero.jpg);
+  background-position: center center; }
+
+.gnat_warfare-project-hero {
+  background-image: url(../assets/projects/gnat_warfare/gnat_warfare-logo.jpg);
+  background-position: center center; }
+
 /*# sourceMappingURL=main.css.map */
