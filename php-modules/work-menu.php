@@ -1,41 +1,49 @@
 <section id="work-menu" class="work-menu isHidden">
 	<div class="work-inner-wrapper">
 		
+	
+				<a class="close-button" id="close-work" href="#"><i class="fa fa-times" aria-hidden="true"></i></a>
+		
 		<div class="project-item">
 			<div class="project-thumbnail">
 				<img src=_/assets/projects/parkers/parkers-thumbnail.png>
 			</div>
 			<div class="work-project-description">
 				<h1>Say Goodbye to the Sticky Past</h1>
-				<h2>Parker's Maple<br>packaging, branding, print</h2>
-				<p>A special release design of US currency for the 20th anniversary of September 11th.</p>
+				<p>Ever seen a maple product label without a rustic bucket or vintage photo of maple trees? Now you have, and it’s about time.</p>
+				<h2>Parker's Maple: packaging | branding | print</h2>
 				<a class="button work-menu-button" href="parkers_maple.php">View</a>
 			</div>
+			
+			<hr class="project-divider">
 		</div>
 		
 		<div class="project-item">
 			<div class="project-thumbnail">
-				<img src=_/assets/projects/catapult/catapult-thumbnail.png>
+				<img src=_/assets/projects/innovation_space/satlas-thumbnail.png>
 			</div>
 			<div class="work-project-description">
-				<h1>Portfolio<br>Overhaul</h1>
-				<h2>Catapult<br>web design, front-end dev</h2>
-				<p>A special release design of US currency for the 20th anniversary of September 11th.</p>
-				<a class="button work-menu-button" href="catapult.php">View</a>
-			</div>
-		</div>
-		
-		<div class="project-item">
-			<div class="project-thumbnail">
-				<img src=_/assets/projects/innovation_space/innovation_space-thumbnail.png>
-			</div>
-			<div class="work-project-description">
-				<h1>Innovation<br>Space</h1>
-				<h2>Honeywell<br>product dev, print, branding</h2>
-				<p>Starter kit illustration design and hand-crafted packaging for Boyscouts.</p>
+				<h1>Satlas: Connect Your&nbsp;World</h1>
+				<p>Honeywell came to Innovation Space to enlist our help in building a UAV that addresses infrastructure. On a team consisting of an engineer, business, sustainability, industrial design, and visual communication design, we tackled this goal through extensive research, innovation and impeccable teamwork.</p>
+				<h2>Honeywell: visual design | research | product development</h2>
 				<a class="button work-menu-button" href="innovation_space.php">View</a>
 			</div>
+			<hr class="project-divider">
 		</div>
+		
+		<div class="project-item">
+			<div class="project-thumbnail">
+				<img src=_/assets/projects/matters/matters-thumbnail.png>
+			</div>
+			<div class="work-project-description">
+				<h1>Matters<br>Exhibition</h1>
+				<p>The culmination of four years of grueling, hard work, the VCD Matters Exhibition featured an exhibit from each student, presenting their senior thesis. As Digital Team Lead, I led a team of five in the design and development of a website to promote the show.</p>
+				<h2>ASU: digital team lead | design | development</h2>
+				<a class="button work-menu-button" href="matters_exhibition.php">View</a>
+			</div>
+			<hr class="project-divider">
+		</div>
+		
 		
 		<div class="project-item">
 			<div class="project-thumbnail">
@@ -43,25 +51,58 @@
 			</div>
 			<div class="work-project-description"> 
 				<h1>Chill out with Thermodynamics</h1>
-				<h2>ASU<br>logo, research, ~engineering, illustration, print</h2>
-				<p>Starter kit illustration design and hand-crafted packaging for Boyscouts.</p>
+				<p>Co365 focuses on improving outdoor comfort to better foster the diversity and innovation ASU is known for. This system employs a multi-faceted solution to the problem of the uncomfortable outdoor heat of the ASU stadium.</p>
+				<h2>ASU: research | product development | illustration | identity | proposal design</h2>
 				<a class="button work-menu-button" href="cluster.php">View</a>
 			</div>
+			<hr class="project-divider">
+		</div>
+		
+		
+		<div class="project-item">
+			<div class="project-thumbnail">
+				<img src=_/assets/projects/biomimicry/biomimicry-thumbnail.png>
+			</div>
+			<div class="work-project-description">
+				<h1>Nature is Smarter Than You</h1>
+				<p>Solutions to global challenges are all around us in nature and this exhibit brings awareness to those solutions.</p>
+				<h2>ASU: advertising | exhibit materials | book</h2>
+				<a class="button work-menu-button" href="biomimicry.php">View</a>
+			</div>
+			
+			<hr class="project-divider">
 		</div>
 		
 		<div class="project-item">
 			<div class="project-thumbnail">
-				<img src=_/assets/projects/biomimicry/biomimicry_thumbnail.png>
+				<img src=_/assets/projects/asu_now/asu_now-thumbnail.png>
 			</div>
 			<div class="work-project-description">
-				<h1>Nature is Smarter Than You</h1>
-				<h2>ASU<br>exhibit materials, print</h2>
-				<p>Starter kit illustration design and hand-crafted packaging for Boyscouts.</p>
-				<a class="button work-menu-button" href="biomimicry.php">View</a>
+				<h1>News by the People, for the People</h1>
+				<p>Arizona State University’s mission to overhaul their news site brought to the forefront their need to rebrand and employ a solid user experience.</p>
+				<h2>ASU Now: logo | web design</h2>
+				<a class="button work-menu-button" href="asu_now.php">View</a>
 			</div>
+			
+			<hr class="project-divider">
 		</div>
 		
 		<div class="project-item">
+			<div class="project-thumbnail">
+				<img src=_/assets/projects/ips/ips-thumbnail.png>
+			</div>
+			<div class="work-project-description">
+				<h1>Website<br>Rennovation</h1>
+				<p>Lacking basic design principles, IPS' website needed a small renovation to enhance the UI/UX.</p>
+				<h2>Industrial Power Solutions: branding | web design</h2>
+				<a class="button work-menu-button" href="ips.php">View</a>
+			</div>
+			
+			<hr class="project-divider">
+		</div>
+		
+		
+<!--	<div class="project-item">
 			<div class="project-thumbnail">
 				<img src=_/assets/projects/mars_series/mars_series-thumbnail.png>
 			</div>
@@ -71,6 +112,19 @@
 				<p>Starter kit illustration design and hand-crafted packaging for Boyscouts.</p>
 				<a class="button work-menu-button" href="mars_series.php">View</a>
 			</div>
+		</div> 
+		
+		<div class="project-item">
+			<div class="project-thumbnail">
+				<img src=_/assets/projects/innovation_space/satlas-thumbnail.png>
+			</div>
+			<div class="work-project-description">
+				<h1>Innovation<br>Space</h1>
+				<p>A majority of infrastructure in the US is past the age it was built to endure but is still being used due to a lack in budget for new construction—risking American's lives every day. Honeywell came to Innovation Space with the goal of speeding up and reducing the cost of infrastructure inspections, allowing for better records and more money for repairs as well as less risk to human lives.</p>
+				<h2>Honeywell: visual design | research | product development</h2>
+				<a class="button work-menu-button" href="innovation_space.php">View</a>
+			</div>
+			<hr class="project-divider">
 		</div>
 		
 		<div class="project-item">
@@ -87,18 +141,6 @@
 		
 		<div class="project-item">
 			<div class="project-thumbnail">
-				<img src=_/assets/projects/ips/ips-thumbnail.png>
-			</div>
-			<div class="work-project-description">
-				<h1>Website Rennovation</h1>
-				<h2>Industrial Power Solutions<br>branding, web design</h2>
-				<p>Starter kit illustration design and hand-crafted packaging for Boyscouts.</p>
-				<a class="button work-menu-button" href="ips.php">View</a>
-			</div>
-		</div>
-		
-		<div class="project-item">
-			<div class="project-thumbnail">
 				<img src=_/assets/projects/molson_canadian/molson_canadian-thumbnail.png>
 			</div>
 			<div class="work-project-description">
@@ -106,18 +148,6 @@
 				<h2>Molson Canadian<br>storefront</h2>
 				<p>Starter kit illustration design and hand-crafted packaging for Boyscouts.</p>
 				<a class="button work-menu-button" href="molson_canadian.php">View</a>
-			</div>
-		</div>
-		
-		<div class="project-item">
-			<div class="project-thumbnail">
-				<img src=_/assets/projects/asu_now/asu_now-thumbnail.png>
-			</div>
-			<div class="work-project-description">
-				<h1>News by the People, for the People</h1>
-				<h2>ASU Now<br>logo, web design</h2>
-				<p>Starter kit illustration design and hand-crafted packaging for Boyscouts.</p>
-				<a class="button work-menu-button" href="asu_now.php">View</a>
 			</div>
 		</div>
 		
@@ -251,7 +281,7 @@
 				<p>Starter kit illustration design and hand-crafted packaging for Boyscouts.</p>
 				<a class="button work-menu-button" href="puslinch.php">View</a>
 			</div>
-		</div>
+		</div> -->
 		
 	</div>
 		

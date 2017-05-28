@@ -26,19 +26,60 @@ button::-moz-focus-inner {
 }
 
 .button {
-	padding: 10px 15px;
-	font-size: .8em;
-	font-weight: 500;
-	letter-spacing: .3em;
-	text-transform: uppercase;
-	background-color: rgba(225, 225, 225, .2);
-	height: 40px;
-	margin-bottom: 5px;
-	line-height: 1.8em;
+	padding: 6px 7px 5px 10px;
+    font-size: .8em;
+    font-weight: 500;
+    letter-spacing: .3em;
+    text-transform: uppercase;
+    height: 33px;
+    margin-bottom: auto;
+    line-height: 1.8em;
+    border: 1px solid #ccc;
+    display: inline-block;
+    margin-top: 7px;
 	
 	@media (min-width: 600px) {
 		font-weight: 300;
 	}
+}
+
+@media (min-width: 1100px) {
+	.buttonPulse{
+		animation-name: buttonPulse;
+		animation-duration: 3s;	
+		animation-delay: 12s;	
+		animation-timing-function: ease-in-out;			
+		animation-fill-mode: forwards;
+		animation-iteration-count: 2;
+		visibility: visible !important;	
+	}
+	
+	@keyframes buttonPulse {
+		0% {
+			transform: translateY(0);
+		}
+		
+		80% {
+			transform: translateY(0);
+		}
+		
+		85% {
+			transform: translateY(-10px);
+		}
+		
+		90% {
+			transform: translateY(0);
+		}
+		
+		95% {
+			transform: translateY(-10px);
+		}
+				
+		100% {
+			transform: translateY(0);
+		}	
+	}
+
 }
 
 .hero-button {
@@ -46,10 +87,28 @@ button::-moz-focus-inner {
 }
 
 .work-menu-button {
-	display: block;
 }
 
 .project-button {
-	margin-top: -15px;
-	display: block;
+	margin-bottom: 5px;
+	display: inline-block;
+	color: #000;
+	opacity: 0;
+	
+	@media (min-width: 1100px) {
+		color: #fff;
+	}
+}
+
+.close-button {
+	float: right;
+	margin-bottom: 20px;
+}
+
+.skip-ahead {
+	color: #000;
+	
+	@media (min-width: 1100px) {
+		display: none;
+	}
 }

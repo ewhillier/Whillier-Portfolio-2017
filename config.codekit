@@ -519,6 +519,149 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_\/assets\/projects\/complex_object\/complex-object-hero-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 130177,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex-object-hero-01.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex-object-hero-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/complex_object\/complex_object-process-10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 288784,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex_object-process-10.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex_object-process-10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/complex_object\/complex_object-process-11.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 288784,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex_object-process-11.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex_object-process-11.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/complex_object\/complex_object-process-12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 159324,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex_object-process-12.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex_object-process-12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/complex_object\/complex_object-process-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 134977,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex_object-process-2.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex_object-process-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/complex_object\/complex_object-process-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 154098,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex_object-process-3.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex_object-process-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/complex_object\/complex_object-process-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 166258,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex_object-process-4.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex_object-process-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/complex_object\/complex_object-process-5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 252791,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex_object-process-5.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex_object-process-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/complex_object\/complex_object-process-6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 170102,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex_object-process-6.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex_object-process-6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/complex_object\/complex_object-process-7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 183546,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex_object-process-7.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex_object-process-7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/complex_object\/complex_object-process-8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 214935,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex_object-process-8.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex_object-process-8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/complex_object\/complex_object-process-9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 259104,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex_object-process-9.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex_object-process-9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/complex_object\/complex_object-process.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 124003,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex_object-process.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/complex_object\/complex_object-process.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_\/assets\/projects\/complex_object\/complex_object-thumbnail.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -990,7 +1133,7 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/amedy-info.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/amedy-logo.jpg": {
 		"fileType": 16384,
@@ -1001,7 +1144,414 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/amedy-logo.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/book-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 535465,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-01.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/book-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 277109,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-02.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/book-03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 309232,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-03.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/book-05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 587031,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-05.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/book-06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 429015,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-06.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/book-07.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 302780,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-07.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-07.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/book-08.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 287929,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-08.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-08.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/book-09.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 244367,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-09.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-09.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/book-10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 388856,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-10.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/book-11.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 183618,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-11.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-11.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/book-12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 227159,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-12.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/book-13.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 247589,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-13.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-13.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/book-14.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 179719,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-14.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-14.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/book-15.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 202734,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-15.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-15.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/book-16.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 275965,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-16.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-16.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/book-17.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 300809,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-17.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-17.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/book-18.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 312570,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-18.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-18.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/book-19.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 277062,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-19.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-19.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/book-20.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 288173,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-20.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/book-20.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/IMG_20170505_175320.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 261400,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_20170505_175320.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_20170505_175320.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/IMG_20170505_175328.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 292493,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_20170505_175328.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_20170505_175328.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/IMG_9184.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 250397,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9184.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9184.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/IMG_9193.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 256843,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9193.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9193.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/IMG_9198.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 220222,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9198.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9198.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/IMG_9199.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 288115,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9199.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9199.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/IMG_9201.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 302466,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9201.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9201.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/IMG_9205.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 295523,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9205.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9205.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/IMG_9215.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 233200,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9215.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9215.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/IMG_9223.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 285849,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9223.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9223.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/IMG_9229.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 265823,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9229.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9229.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/IMG_9247.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 263149,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9247.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9247.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/IMG_9252.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 241185,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9252.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9252.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/IMG_9255.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 246532,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9255.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9255.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/IMG_9257.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 281375,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9257.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9257.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/IMG_9260.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 228594,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9260.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9260.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/IMG_9262.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 252620,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9262.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9262.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/IMG_9263.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 270532,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9263.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/IMG_9263.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/innovation_proposal-01.jpg": {
 		"fileType": 16384,
@@ -1012,7 +1562,7 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_proposal-01.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/innovation_proposal-02.jpg": {
 		"fileType": 16384,
@@ -1023,7 +1573,7 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_proposal-02.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/innovation_proposal-03.jpg": {
 		"fileType": 16384,
@@ -1034,7 +1584,7 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_proposal-03.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/innovation_proposal-04.jpg": {
 		"fileType": 16384,
@@ -1045,7 +1595,7 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_proposal-04.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/innovation_proposal-05.jpg": {
 		"fileType": 16384,
@@ -1056,7 +1606,7 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_proposal-05.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/innovation_proposal-06.jpg": {
 		"fileType": 16384,
@@ -1067,7 +1617,7 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_proposal-06.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/innovation_proposal-07.jpg": {
 		"fileType": 16384,
@@ -1078,7 +1628,7 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_proposal-07.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/innovation_proposal-08.jpg": {
 		"fileType": 16384,
@@ -1089,7 +1639,7 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_proposal-08.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/innovation_proposal-09.jpg": {
 		"fileType": 16384,
@@ -1100,7 +1650,7 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_proposal-09.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/innovation_proposal-10.jpg": {
 		"fileType": 16384,
@@ -1111,7 +1661,7 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_proposal-10.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/innovation_proposal-11.jpg": {
 		"fileType": 16384,
@@ -1122,7 +1672,7 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_proposal-11.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/innovation_proposal-12.jpg": {
 		"fileType": 16384,
@@ -1133,7 +1683,7 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_proposal-12.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/innovation_proposal-13.jpg": {
 		"fileType": 16384,
@@ -1144,18 +1694,18 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_proposal-13.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/innovation_proposal-14.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 586103,
 		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_proposal-14.jpg",
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_proposal-14.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/innovation_proposal-15.jpg": {
 		"fileType": 16384,
@@ -1166,7 +1716,7 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_proposal-15.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/innovation_proposal-16.jpg": {
 		"fileType": 16384,
@@ -1177,7 +1727,7 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_proposal-16.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/innovation_proposal-17.jpg": {
 		"fileType": 16384,
@@ -1188,18 +1738,18 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_proposal-17.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/innovation_proposal-18.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 565418,
 		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_proposal-18.jpg",
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_proposal-18.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/innovation_proposal-19.jpg": {
 		"fileType": 16384,
@@ -1210,7 +1760,7 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_proposal-19.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/innovation_proposal-20.jpg": {
 		"fileType": 16384,
@@ -1221,7 +1771,7 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_proposal-20.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/innovation_proposal-21.jpg": {
 		"fileType": 16384,
@@ -1232,7 +1782,7 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_proposal-21.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/innovation_proposal-22.jpg": {
 		"fileType": 16384,
@@ -1243,7 +1793,7 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_proposal-22.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/innovation_space-thumbnail.png": {
 		"fileType": 32768,
@@ -1254,7 +1804,7 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/innovation_space-thumbnail.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/kwill-hero.jpg": {
 		"fileType": 16384,
@@ -1265,7 +1815,7 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/kwill-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/kwill-logo.jpg": {
 		"fileType": 16384,
@@ -1276,7 +1826,7 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/kwill-logo.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/phero-info.jpg": {
 		"fileType": 16384,
@@ -1287,7 +1837,7 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/phero-info.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/phero-logo.jpg": {
 		"fileType": 16384,
@@ -1298,7 +1848,18 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/phero-logo.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/satlas-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 727407,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/satlas-hero.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/satlas-hero.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/satlas-info.jpg": {
 		"fileType": 16384,
@@ -1309,7 +1870,7 @@
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/satlas-info.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/_\/assets\/projects\/innovation_space\/satlas-logo.jpg": {
 		"fileType": 16384,
@@ -1318,6 +1879,160 @@
 		"initialSize": 68744,
 		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/satlas-logo.jpg",
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/satlas-logo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/innovation_space\/satlas-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4919,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/satlas-thumbnail.png",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/innovation_space\/satlas-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/ips\/ips-gallery-mobile1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105591,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/ips\/ips-gallery-mobile1.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/ips\/ips-gallery-mobile1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/ips\/ips-gallery-mobile2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74594,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/ips\/ips-gallery-mobile2.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/ips\/ips-gallery-mobile2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/ips\/ips-gallery-mobile3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 96799,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/ips\/ips-gallery-mobile3.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/ips\/ips-gallery-mobile3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/ips\/ips-gallery1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 224606,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/ips\/ips-gallery1.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/ips\/ips-gallery1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/ips\/ips-gallery2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 161887,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/ips\/ips-gallery2.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/ips\/ips-gallery2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/ips\/ips-gallery3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 267238,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/ips\/ips-gallery3.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/ips\/ips-gallery3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/ips\/ips-gallery4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 161111,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/ips\/ips-gallery4.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/ips\/ips-gallery4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/ips\/ips-gallery5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 126044,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/ips\/ips-gallery5.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/ips\/ips-gallery5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/ips\/ips-gallery6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 200775,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/ips\/ips-gallery6.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/ips\/ips-gallery6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/ips\/ips-gallery7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 186894,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/ips\/ips-gallery7.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/ips\/ips-gallery7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/ips\/ips-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 383103,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/ips\/ips-hero.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/ips\/ips-hero.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/ips\/ips-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5312,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/ips\/ips-thumbnail.png",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/ips\/ips-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/landmark\/landmark-logo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55958,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/landmark\/landmark-logo.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/landmark\/landmark-logo.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1333,6 +2048,116 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_\/assets\/projects\/mars_series\/mars-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 742355,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/mars_series\/mars-1.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/mars_series\/mars-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/mars_series\/mars-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 569144,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/mars_series\/mars-2.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/mars_series\/mars-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/mars_series\/mars-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 811005,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/mars_series\/mars-3.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/mars_series\/mars-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/mars_series\/mars-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 616460,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/mars_series\/mars-4.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/mars_series\/mars-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/mars_series\/mars-5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 549564,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/mars_series\/mars-5.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/mars_series\/mars-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/mars_series\/mars-6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160391,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/mars_series\/mars-6.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/mars_series\/mars-6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/mars_series\/mars-7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100959,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/mars_series\/mars-7.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/mars_series\/mars-7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/mars_series\/mars-8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 129019,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/mars_series\/mars-8.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/mars_series\/mars-8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/mars_series\/mars-9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 245012,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/mars_series\/mars-9.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/mars_series\/mars-9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/mars_series\/mars-hero2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 216607,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/mars_series\/mars-hero2.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/mars_series\/mars-hero2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_\/assets\/projects\/mars_series\/mars_series-thumbnail.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1340,6 +2165,28 @@
 		"initialSize": 7676,
 		"inputAbbreviatedPath": "\/_\/assets\/projects\/mars_series\/mars_series-thumbnail.png",
 		"outputAbbreviatedPath": "\/_\/assets\/projects\/mars_series\/mars_series-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/matters\/matters-hero.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 150412,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/matters\/matters-hero.png",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/matters\/matters-hero.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/matters\/matters-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1753,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/matters\/matters-thumbnail.png",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/matters\/matters-thumbnail.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1432,6 +2279,193 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_\/assets\/projects\/utopian\/221_p2_nouapi_v1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44679,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/221_p2_nouapi_v1.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/221_p2_nouapi_v1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/utopian\/utopian-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61570,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-hero.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-hero.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/utopian\/utopian-process-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 642139,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-2.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/_\/assets\/projects\/utopian\/utopian-process-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 157836,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-3.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/utopian\/utopian-process-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-4.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/utopian\/utopian-process-5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 169657,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-5.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/utopian\/utopian-process-6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 156831,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-6.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/utopian\/utopian-process-7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 168652,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-7.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/utopian\/utopian-process-8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 458752,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-8.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/utopian\/utopian-process-vertical-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 146331,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-vertical-2.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-vertical-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/utopian\/utopian-process-vertical-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105965,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-vertical-3.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-vertical-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/utopian\/utopian-process-vertical-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 200168,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-vertical-4.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-vertical-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/utopian\/utopian-process-vertical-5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63125,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-vertical-5.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-vertical-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/utopian\/utopian-process-vertical-6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91873,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-vertical-6.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-vertical-6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/utopian\/utopian-process-vertical-7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 219160,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-vertical-7.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-vertical-7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/utopian\/utopian-process-vertical.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 140847,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-vertical.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process-vertical.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_\/assets\/projects\/utopian\/utopian-process.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 640453,
+		"inputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process.jpg",
+		"outputAbbreviatedPath": "\/_\/assets\/projects\/utopian\/utopian-process.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_\/assets\/projects\/utopian\/utopian-thumbnail.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1454,20 +2488,11 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_\/css\/base.css": {
+	"\/_\/css\/font-awesome.css": {
 		"fileType": 16,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_\/css\/base.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_\/css\/layout.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_\/css\/layout.css",
+		"inputAbbreviatedPath": "\/_\/css\/font-awesome.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1512,6 +2537,118 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/_\/modules\/about.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/modules\/about.scss",
+		"outputAbbreviatedPath": "\/_\/css\/about.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/_\/modules\/buttons.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/modules\/buttons.scss",
+		"outputAbbreviatedPath": "\/_\/css\/buttons.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/_\/modules\/header.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/modules\/header.scss",
+		"outputAbbreviatedPath": "\/_\/css\/header.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/_\/modules\/homepage-main.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/modules\/homepage-main.scss",
+		"outputAbbreviatedPath": "\/_\/css\/homepage-main.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/_\/modules\/project-main.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/modules\/project-main.scss",
+		"outputAbbreviatedPath": "\/_\/css\/project-main.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/_\/modules\/states.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/modules\/states.scss",
+		"outputAbbreviatedPath": "\/_\/css\/states.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/_\/modules\/work-menu.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/modules\/work-menu.scss",
+		"outputAbbreviatedPath": "\/_\/css\/work-menu.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/_\/scss\/base.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -1528,38 +2665,20 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/_\/scss\/css\/header.css": {
+	"\/_\/scss\/css\/awards-menu.css": {
 		"fileType": 16,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_\/scss\/css\/header.css",
+		"inputAbbreviatedPath": "\/_\/scss\/css\/awards-menu.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_\/scss\/css\/homepage-main.css": {
+	"\/_\/scss\/css\/landing.css": {
 		"fileType": 16,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_\/scss\/css\/homepage-main.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_\/scss\/css\/project-main.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_\/scss\/css\/project-main.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_\/scss\/css\/states.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_\/scss\/css\/states.css",
+		"inputAbbreviatedPath": "\/_\/scss\/css\/landing.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1581,7 +2700,7 @@
 		"useLibsass": 0
 		},
 	"\/_\/scss\/main.scss": {
-		"createSourceMap": 1,
+		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
@@ -1589,6 +2708,38 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/scss\/main.scss",
 		"outputAbbreviatedPath": "\/_\/css\/main.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/_\/scss\/modules\/about.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/scss\/modules\/about.scss",
+		"outputAbbreviatedPath": "\/_\/scss\/css\/about.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/_\/scss\/modules\/awards-menu.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/scss\/modules\/awards-menu.scss",
+		"outputAbbreviatedPath": "\/_\/scss\/css\/awards-menu.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1637,6 +2788,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/scss\/modules\/homepage-main.scss",
 		"outputAbbreviatedPath": "\/_\/scss\/css\/homepage-main.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/_\/scss\/modules\/landing.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/scss\/modules\/landing.scss",
+		"outputAbbreviatedPath": "\/_\/scss\/css\/landing.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1744,6 +2911,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/complex_object-award.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/complex_object-award.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/currency.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1776,6 +2952,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/gnat_warfare.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/home.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/home.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1825,6 +3010,51 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/ips.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ips.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/landmark.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/landmark.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/mars_series-award.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/mars_series-award.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/mars_series.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/mars_series.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/matters_exhibition.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/matters_exhibition.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/molson_canadian.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1843,6 +3073,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/php-modules\/about.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/php-modules\/about.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/php-modules\/awards-menu.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/php-modules\/awards-menu.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/php-modules\/header.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1857,6 +3105,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/php-modules\/work-menu.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/utopian-award.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/utopian-award.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

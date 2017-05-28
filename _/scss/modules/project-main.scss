@@ -15,20 +15,30 @@
 
 .project-hero {
 	width: 100%;
-	height: 40vh;
+	height: 50vh;
 	background-size: cover;
-	background-position: center bottom;
+	background-position: center center;
 	
 	@media (min-width: 1100px) {
+		margin-top: 0;
 		width: 60%;
 		height: 100vh;
 		float: left;
+		background-position: center bottom;
 	}
 	
 	@media (min-width: 1400px) {
-		width: 70%;
+		width: 65%;
 	}
 	
+}
+
+.mobile-hero {
+	margin-top: 90px;
+	
+	@media (min-width: 1100px) {
+		margin-top: 0;
+	}
 }
 
 
@@ -36,6 +46,22 @@
 .project-meta {
 	padding: 20px;
 	color: $darkgrey;
+	
+	h1 {
+		opacity: 0;
+	}
+	
+	h2 {
+		opacity: 0;
+	}
+	
+	h3 {
+		opacity: 0;
+	}
+	
+	p {
+		opacity: 0;
+	}
 	
 	@media (min-width: 600px) {
 		width: 85%;
@@ -62,8 +88,46 @@
 	}
 }
 
+.landAppearTitle{
+	animation-name: landAppear;
+	animation-duration: 1s;	
+	animation-delay: .5s;	
+	animation-timing-function: linear;			
+	animation-fill-mode: forwards;
+	visibility: visible !important;	
+}
+
+.landAppearCompany{
+	animation-name: landAppear;
+	animation-duration: 1s;	
+	animation-delay: .5s;	
+	animation-timing-function: linear;			
+	animation-fill-mode: forwards;
+	visibility: visible !important;	
+}
+
+.landAppearSummary{
+	animation-name: landAppear;
+	animation-duration: 1s;	
+	animation-delay: 1.5s;	
+	animation-timing-function: linear;			
+	animation-fill-mode: forwards;
+	visibility: visible !important;	
+}
+
+.landAppearDetails{
+	animation-name: landAppear;
+	animation-duration: 1s;	
+	animation-delay: 1.5s;	
+	animation-timing-function: linear;			
+	animation-fill-mode: forwards;
+	visibility: visible !important;	
+}
+
 .project-details {
 	margin: 0px;
+	margin-top: 10px;
+	opacity: 0;
 }
 
 .category {
@@ -76,11 +140,11 @@
 	}
 }
 
-.gallery-image {
+.project-gallery {
 	width: 100%;
+	overflow: auto;
 	
 	@media (min-width: 1100px) {
-		float: left;
 		width: 60%;
 	}
 	
@@ -89,68 +153,161 @@
 	}
 }
 
+.gallery-image {
+	width: 100%;
+	
+	@media (min-width: 1100px) {
+		float: left;
+		width: 100%;
+	}
+	
+	@media (min-width: 1400px) {
+		width: 100%;
+	}
+}
+
+.image-half {
+	width: 100%;
+	
+	@media (min-width: 1100px) {
+		width: 50%;
+		float: left;
+	}
+}
+
+.gallery-text {
+	width: 100%;
+	padding: 20px;
+	
+	
+	p {
+		color: $darkgrey;
+		margin: 0;
+		font-weight: 500;
+	}
+	
+	@media (min-width: 600px) {
+		width: 85%;
+		margin: 0 auto;
+	}
+	
+	@media (min-width: 1100px) {
+		width: 100%;
+		height: auto;
+		padding: 50px 100px;
+	}
+	
+	@media (min-width: 1400px) {
+		padding: 50px 200px;
+	}
+}
+
+.gallery-video {
+	height: 300px;
+	width: 100%;
+	
+	@media (min-width: 1100px) {
+		height: 60vh;
+		width: 100%;
+	}
+}
+
+.project-nav {
+	width: 65%;
+	height: 200px;
+}
+
+.prev-project {
+	width: 49%;
+	float: left;
+	background-color: $darkgrey;
+}
+
+.next-project {
+	width: 49%;
+	float: right;
+	background-color: $darkgrey;
+}
+
 .parkers-project-hero {
 	background-image: url(../assets/projects/parkers/parkers-homepage-hero.jpg);
-}
-
-.asu_now-project-hero {
-	background-image: url(../assets/projects/asu_now/asu_now-website-01.jpg);
-}
-
-.currency-project-hero {
-	background-image: url(../assets/projects/currency/currency-hero.jpg);
-	background-position: left bottom;
-}
-
-.biomimicry-project-hero {
-	background-image: url(../assets/projects/biomimicry/biomimicry-01.jpg);
-	background-position: left bottom;
+	background-position: center bottom;
 }
 
 .catapult-project-hero {
 	background-image: url(../assets/projects/catapult/catapult-hero.jpg);
 }
 
+.ips-project-hero {
+	background-image: url(../assets/projects/ips/ips-hero.jpg);
+}
+
+.acklands_grainger-project-hero {
+	background-image: url(../assets/projects/acklands_grainger/acklands_grainger-hero.jpg);
+}
+
+.poster_show-project-hero {
+	background-image: url(../assets/projects/poster_show/poster_show-hero.jpg);
+}
+
+.bamboo-project-hero {
+	background-image: url(../assets/projects/bamboo/bamboo-hero.jpg);
+}
+
 .innovation_space-project-hero {
-	background-image: url(../assets/projects/innovation_space/kwill-hero.jpg);
-}
-
-.innovation_space-amedy-project-hero {
-	background-image: url(../assets/projects/innovation_space/amedy-logo.jpg);
+	background-image: url(../assets/projects/innovation_space/satlas-hero.jpg);
 	background-position: center center;
-}
-
-.innovation_space-satlas-project-hero {
-	background-image: url(../assets/projects/innovation_space/satlas-logo.jpg);
-	background-position: center center;
-}
-
-.innovation_space-phero-project-hero {
-	background-image: url(../assets/projects/innovation_space/phero-logo.jpg);
-	background-position: center center;
+	background-size: 180%;
+	
+	@media (min-width: 600px) {
+		background-size: 130%;
+	}
+	
+	@media (min-width: 1100px){
+		background-size: cover;
+	}
 }
 
 .cluster-project-hero {
 	background-image: url(../assets/projects/cluster/cluster-hero.jpg);
+}
+
+.biomimicry-project-hero {
+	background-image: url(../assets/projects/biomimicry/biomimicry-01.jpg);
+}
+
+.innovation_space-amedy-project-hero {
+	background-image: url(../assets/projects/innovation_space/amedy-logo.jpg);
+}
+
+.innovation_space-satlas-project-hero {
+	background-image: url(../assets/projects/innovation_space/satlas-logo.jpg);
+}
+
+.innovation_space-phero-project-hero {
+	background-image: url(../assets/projects/innovation_space/phero-logo.jpg);
+}
+
+.asu_now-project-hero {
+	background-image: url(../assets/projects/asu_now/asu_now-website-01.jpg);
+}
+
+.utopian-hero {
+	background-image: url(../assets/projects/utopian/utopian-hero.jpg);
 	background-position: center center;
 }
 
-.duo-project-hero {
-	background-image: url(../assets/projects/duo_records/duo-hero.jpg);
+.complex_object-hero {
+	background-image: url(../assets/projects/complex_object/complex-object-hero-01.jpg);
 	background-position: center center;
 }
 
-.frm-project-hero {
-	background-image: url(../assets/projects/frm/frm-logo.jpg);
+.mars_series-hero {
+	background-image: url(../assets/projects/mars_series/mars-hero2.jpg);
 	background-position: center center;
 }
 
-.canadian_molson-project-hero {
-	background-image: url(../assets/projects/canadian_molson/canadian_molson-hero.jpg);
-	background-position: center center;
-}
-
-.gnat_warfare-project-hero {
-	background-image: url(../assets/projects/gnat_warfare/gnat_warfare-logo.jpg);
+.matters-hero {
+	background-image: url(../assets/projects/matters/matters-hero.png);
 	background-position: center center;
 }

@@ -1,0 +1,61 @@
+/* Buttons
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+/* Reset `button` and button-style `input` default styles */
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+button {
+    background: none;
+    border: 0;
+    color: inherit;
+    /* cursor: default; */
+    font: inherit;
+    line-height: normal;
+    overflow: visible;
+    padding: 0;
+    -webkit-appearance: button; /* for input */
+    -webkit-user-select: none; /* for button */
+       -moz-user-select: none;
+        -ms-user-select: none;
+}
+input::-moz-focus-inner,
+button::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+}
+
+.button {
+	padding: 10px 15px;
+	font-size: .8em;
+	font-weight: 500;
+	letter-spacing: .3em;
+	text-transform: uppercase;
+	background-color: rgba(0, 0, 0, .5);
+	height: 40px;
+	margin-bottom: 5px;
+	line-height: 1.8em;
+	
+	@media (min-width: 600px) {
+		font-weight: 300;
+	}
+}
+
+.hero-button {
+	margin-top: 8px;
+}
+
+.work-menu-button {
+	display: block;
+}
+
+.project-button {
+	margin-top: -15px;
+	display: block;
+}
+
+.close-button {
+	display: block;
+	margin-bottom: 30px;
+	width: 80px;
+}

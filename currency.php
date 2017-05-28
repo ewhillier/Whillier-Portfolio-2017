@@ -5,6 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 	<link href="_/css/normalize.css" rel="stylesheet" type="text/css">
 	<link href="_/css/main.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="_/css/font-awesome.css">
 	<link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700" rel="stylesheet">
 	<title>Parker's Real Maple Packaging Design</title>
 </head>
@@ -42,6 +43,8 @@
 	</main>
 	
 	<?php include 'php-modules/work-menu.php';?>
+	<?php include 'php-modules/about.php';?>
+	<?php include 'php-modules/awards-menu.php';?>
 	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
 	<script src="_/js/interactions.js"></script>
